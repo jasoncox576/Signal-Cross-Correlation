@@ -10,3 +10,8 @@ Here is a random output by the script: The pre-image signal towards the top. The
 
 
 ![selection_001](https://user-images.githubusercontent.com/14042582/34587603-98519406-f16e-11e7-8265-46ee3e691db5.png)
+
+<br />
+An algorithm that can be used to find multiple maxes has been added- the one dimensional version of the same one used in Pikachu-Detection. Here are the results of a signal repeated three times and distorted with noise:
+
+![multimax](https://user-images.githubusercontent.com/14042582/35459646-ad2bc9d4-02a6-11e8-8b2e-d76ba4e36688.png)
